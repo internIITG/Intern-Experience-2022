@@ -1,11 +1,23 @@
-## Online Assesment
--
--
+## Eligibility
+- BTech : 
+- CPI cut-off : 
+- Stipend :  per month
+- Location : 
+- Accomodation : 
+- PPO : 
+
+## Coding Round
+- 
+
+## Interview Details
+- 
 
 ## shortlisted for Interviews
-- A
-- B
+- 36 students were shortlisted and 10 Extended shortlist.
 
 ## Final Offer
-- A
-- B
+- Tanay Gada
+- Tiyasa Majumder
+- Meghana Asok
+- Srishti Kumari
+- Kartik Sharma

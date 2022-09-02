@@ -1,11 +1,24 @@
-## Online Assesment
--
--
+## Eligibility
+- BTech : 
+- CPI cut-off : 
+- Stipend :  per month
+- Location : 
+- Accomodation : 
+- PPO : 
+
+## Coding Round
+- 
+
+## Interview Details
+- 
 
 ## shortlisted for Interviews
-- A
-- B
+- 
 
 ## Final Offer
-- A
-- B
+- Dishita Bansal
+- Dev Desai
+- D K Goutham
+- Shashank Singh
+- Ashmika Rasania
+- Abhijeet Patnaik

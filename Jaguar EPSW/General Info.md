@@ -13,9 +13,7 @@
 - 
 
 ## shortlisted for Interviews
-- 15 students were shortlisted for interviews.
+- 
 
 ## Final Offer
-- Suvayan Nath
-- Devesh Malav
-- Devanshi Garg
+- Aditya Vardhan

@@ -1,11 +1,23 @@
-## Online Assesment
--
--
+## Eligibility
+- BTech : 
+- CPI cut-off : 
+- Stipend :  per month
+- Location : 
+- Accomodation : 
+- PPO : 
+
+## Coding Round
+- 
+
+## Interview Details
+- 
 
 ## shortlisted for Interviews
-- A
-- B
+- 18 students were shortlisted for interviews.
 
 ## Final Offer
-- A
-- B
+- Promit Haldar
+- Mitali Potdar
+- Dev Shah
+- Manish Kumar
+- Kotla Nishanth

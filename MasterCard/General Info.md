@@ -1,11 +1,29 @@
-## Online Assesment
--
--
+## Eligibility
+- BTech : 
+- CPI cut-off : 
+- Stipend :  per month
+- Location : 
+- Accomodation : 
+- PPO : 
+
+## Coding Round
+- 
+
+## Interview Details
+- 
 
 ## shortlisted for Interviews
-- A
-- B
+- 
 
 ## Final Offer
-- A
-- B
+- Shivendu Mishra
+- Illa Kesava Karthik
+- Gangavarapu Shrutha Keerthi Reddy
+- Akshara Danda
+- Raghav Mittal
+- Arnav Singh
+- Pratham Pekamwar
+- Parth Maheshwari
+- Parshva Pragnesh Shah
+- Pradeep Kumar
+- Jash Kumar Roy

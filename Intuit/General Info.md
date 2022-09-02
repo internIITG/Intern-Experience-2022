@@ -1,3 +1,10 @@
+## Eligibility
+- BTech : 
+- CPI cut-off : 
+- Stipend :  per month
+- Location : 
+- Accomodation : 
+- PPO : 
 ## Coding Round
 - online test on glider platfrom similar to hackerrank but screen was also shared on this platform.
 
