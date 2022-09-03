@@ -15,7 +15,7 @@
 ## Technical Round 2 Experience
 - Duration : 1.5 hrs
 - Number of interviewers : 3
-- First 45 minutes were things other than 
+- First 45 minutes were things other than coding questions basically discussion on projects in depth and discusion on databse as well as OOPS. 
 
 ## Hr Experience
 - There was no hr interview.
