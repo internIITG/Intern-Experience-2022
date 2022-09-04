@@ -1,6 +1,8 @@
 ### Name : your name 
 ### Branch : your branch
 ### Email : your_iitgmail@iitg.ac.in
+### Offer : accepted / rejected / not selected
+
 ## Coding Round Experience
 - A
 - B
