@@ -17,7 +17,8 @@
 - Number of interviewers : 3
 - They all introduced themself and then I introduced myself. They aked me how was your day.
 - First 45 minutes were things other than coding questions basically discussion on projects in depth and discusion on database as well as OOPS.
-- Task 1 : They pasted Hello World! program and asked me to explain ech line in detail. They expected knowing about header files , Preprocessor directives, User defined namespace , why main function runs first etc : https://www.geeksforgeeks.org/writing-first-c-program-hello-world-example/
+- Task 1 : They pasted Hello World! program and asked me to explain ech line in detail. They expected knowing about header files , Preprocessor directives, User defined namespace , why main function runs first etc.
+- link : https://www.geeksforgeeks.org/writing-first-c-program-hello-world-example/
 - Task 2 : Given a balanced binary search tree and an element then find the next successor of that element in the tree.
 - link : https://www.interviewbit.com/problems/next-greater-number-bst/
 - Task 3 : Given a number n, remove exactly x digits from n such that the remaining number formed by removing these digits is minimum. Find this minimum number.
