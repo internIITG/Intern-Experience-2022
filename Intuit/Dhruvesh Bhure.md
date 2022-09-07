@@ -10,6 +10,7 @@
 - Number of interviewers : 1
 - We both introduced each other first of all. First 30 minutes of interview was completely dependent on OOPS and DBMS theory. Questions were asked from these topics in mode depth, so I just said don't know and moved on in 2/3 questions. Only 1 coding question was asked and was supposed to do it in 15 minutes.
 - Question : Given a string of '(' and ')'. Find the largest size substring which is balanced paranthesis.
+- link : https://leetcode.com/problems/longest-valid-parentheses/
 - First I mistakenly found the largest subsequence then the interviewer confirmed that he asked for substring, then i quickly changed my code as it was very easy question.
 
 ## Technical Round 2 Experience
