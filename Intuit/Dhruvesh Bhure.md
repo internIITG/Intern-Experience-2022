@@ -36,5 +36,5 @@
 
 ## Company specific Tips/Some resources
 - Be honest 
-- Answering questions rapidly may help, if you don't know then just say that you dont know rather than trying it wrong.
-- They look at your attitude. 
+- Answering questions rapidly may help, if you don't know then just say that you dont know rather than trying it wrong. (For theoretical Questions only)
+- They look at your attitude and how you approach the problem.
