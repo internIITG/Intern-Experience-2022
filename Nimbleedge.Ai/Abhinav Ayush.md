@@ -38,6 +38,6 @@ There were two CP questions. Both of them were based on dynamic programming, and
 I didn’t know the answer to most of the problems, but I answered whatever I could think of, which he was apparently satisfied by. He then asked me basic questions from Automata Theory, DBMS and OOPs, which I was able to answer. Then we said our goodbyes and he ended the meeting.
 
 
-## Company specific Tips/Some resources
-- Prepare for all standard topics, and practice Competitive Programming regularly. 
+## Company specific Tips
+- Prepare for all standard topics, and practice Competitive Programming regularly.
 - Study System Design if you get the time, and be familiar with all the concepts taught in CS101 and stuff related to it.
